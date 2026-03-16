@@ -1,0 +1,14 @@
+c:\Users\guiar\ConsumerPokeApi\bin\Debug\net10.0\ConsumerPokeApi.exe
+C:\Users\guiar\ConsumerPokeApi\bin\Debug\net10.0\ConsumerPokeApi.deps.json
+C:\Users\guiar\ConsumerPokeApi\bin\Debug\net10.0\ConsumerPokeApi.runtimeconfig.json
+c:\Users\guiar\ConsumerPokeApi\bin\Debug\net10.0\ConsumerPokeApi.dll
+c:\Users\guiar\ConsumerPokeApi\bin\Debug\net10.0\ConsumerPokeApi.pdb
+c:\Users\guiar\ConsumerPokeApi\obj\Debug\net10.0\ConsumerPokeApi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\guiar\ConsumerPokeApi\obj\Debug\net10.0\ConsumerPokeApi.AssemblyInfoInputs.cache
+c:\Users\guiar\ConsumerPokeApi\obj\Debug\net10.0\ConsumerPokeApi.AssemblyInfo.cs
+c:\Users\guiar\ConsumerPokeApi\obj\Debug\net10.0\ConsumerPokeApi.csproj.CoreCompileInputs.cache
+c:\Users\guiar\ConsumerPokeApi\obj\Debug\net10.0\ConsumerPokeApi.dll
+c:\Users\guiar\ConsumerPokeApi\obj\Debug\net10.0\refint\ConsumerPokeApi.dll
+c:\Users\guiar\ConsumerPokeApi\obj\Debug\net10.0\ConsumerPokeApi.pdb
+C:\Users\guiar\ConsumerPokeApi\obj\Debug\net10.0\ConsumerPokeApi.genruntimeconfig.cache
+C:\Users\guiar\ConsumerPokeApi\obj\Debug\net10.0\ref\ConsumerPokeApi.dll
